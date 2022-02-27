@@ -1,0 +1,6 @@
+tenant 세입자, 주민
+postpone 연기
+renovate 수리하다
+archeological 고고학의
+generate 발생시키다
+relic 유물
